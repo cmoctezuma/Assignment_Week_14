@@ -1,0 +1,17 @@
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/util/MembershipLevel.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/ProductController.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/OrderController.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/AddressRepository.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Address.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/CustomerService.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/App.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/CustomerRepository.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/CustomerController.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/OrderRepository.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/OrderService.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Product.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Order.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/util/OrderStatus.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Customer.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/ProductRepository.java
+/Users/cesarmoctezuma/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/ProductService.java
